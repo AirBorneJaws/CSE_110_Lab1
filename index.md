@@ -7,7 +7,7 @@
 **I am fluent in English, Armenian, Russian, and Spanish.**
 
 **From the words of Bjarne Stroustrup:** 
-> There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> There are only two kinds of languages, the ones people complain about and the ones nobody uses.
 
 **I have an anime coffee business at the following** [link] (otakubru.com)
 
@@ -17,7 +17,7 @@
 3. Java
 
 **Work Experience:**
-- Winner of the ![NASA Community Scholars Aerospace Scholars](Dub.jpg)
+- Winner of the ![NASA Community Scholars Aerospace Scholars](AirBorneJaws/CSE_110_Lab1/Dub.jpg)
 - Lead programmer and research assistant at UCLA
 - Team strategist and sub-team head at FIRST Robotics Team 696
 
