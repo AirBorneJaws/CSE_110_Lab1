@@ -6,7 +6,8 @@
 **I was born in El Paso, Texas, but I grew up in Armenia**
 **I am fluent in English, Armenian, Russian, and Spanish.**
 
-**From the words of Bjarne Stroustrup:** > There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+**From the words of Bjarne Stroustrup:** 
+> There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
 **I have an anime coffee business at the following** [link] (otakubru.com)
 
@@ -16,12 +17,14 @@
 3. Java
 
 **Work Experience:**
-- Winner of the NASA Community Scholars Aerospace Scholars
+- Winner of the ![NASA Community Scholars Aerospace Scholars](Dub.jpg)
 - Lead programmer and research assistant at UCLA
 - Team strategist and sub-team head at FIRST Robotics Team 696
 
 **Near-Future aspirations:**
 - [ ] Software Engineer at Neuralink 
+
+
 
 
 
