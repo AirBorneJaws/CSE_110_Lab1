@@ -9,7 +9,7 @@
 **From the words of Bjarne Stroustrup:** 
 > There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-**I have an anime coffee business at the following** [link] (https://otakubru.com)
+**I have an anime coffee business at the following** [link](https://otakubru.com)
 
 **My top 3 programming languages are:**
 1. Python
