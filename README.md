@@ -17,7 +17,7 @@
 3. Java
 
 **Work Experience:**
-- Winner of the ![NASA Community Scholars Aerospace Scholars](Dub.jpg)
+- Winner of the ![NASA Community Scholars Aerospace Scholars](https://ibb.co/7pXZGRC)
 - Lead programmer and research assistant at UCLA
 - Team strategist and sub-team head at FIRST Robotics Team 696
 
