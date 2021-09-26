@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to My User Page!
+## Introducing: Bagrat James Mikhaelyan
+### A little about myself:
+**I was a professional martial artist before I majored in computer engineering**
+**I am currently a 4th year ECE Computer Engineer at UCSD**
+**I was born in El Paso, Texas, but I grew up in Armenia**
+**I am fluent in English, Armenian, Russian, and Spanish.**
 
-You can use the [editor on GitHub](https://github.com/AirBorneJaws/CSE_110_Lab1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**From the words of Bjarne Stroustrup:** 
+> There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**I have an anime coffee business at the following** [link] (https://otakubru.com)
 
-### Markdown
+**My top 3 programming languages are:**
+1. Python
+2. C/C++
+3. Java
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Work Experience:**
+- Winner of the ![NASA Community Scholars Aerospace Scholars](/AirBorneJaws/CSE_110_Lab1/Dub.jpg)
+- Lead programmer and research assistant at UCLA
+- Team strategist and sub-team head at FIRST Robotics Team 696
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AirBorneJaws/CSE_110_Lab1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Near-Future aspirations:**
+- [ ] Software Engineer at Neuralink 
